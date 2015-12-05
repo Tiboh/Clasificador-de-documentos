@@ -1,0 +1,108 @@
+Sony tiene marcado a fuego el mes de noviembre. Hace ahora un año, sufrió uno de los ataques informáticos
+más graves de la historia. La firma japonesa perdió 100 millones de dólares (94,5 millones de euros) en un
+ciberataque, que provocó una fuga de datos muy comprometida: se liberaron películas sin estrenar, guiones
+inéditos y datos privados de actores y más de 15.231 empleados. Este negro aniversario coincide con la
+celebración hoy del día mundial de la ciberseguridad. Una jornada en la que se trata de concienciar sobre el
+aumento de los riesgos cibernéticos en una sociedad cada vez más conectada.
+La digitalización de todos los sectores ha elevado drásticamente la exposición de las empresas a nuevas
+ciberamenazas, y ello ha disparado también el negocio que mueve la industria de la ciberseguridad, una de
+las pocas que ha crecido incluso durante la crisis. En 2014, facturó más de 72.000 millones de euros en todo
+el mundo, y distintas fuentes estiman que alcanzará los 170.000 millones de dólares (unos 160.500 millones
+de euros) en 2020, con una tasa anual de crecimiento de entre el 9% y el 12%. En España, y según el Instituto
+Nacional de Ciberseguridad (Incibe), este mercado mueve unos 500 millones de euros anuales, y se prevé
+que crezca a un ritmo anual del 12%.
+Otros números muestran las pérdidas que los ciberdelitos causan a las empresas. La aseguradora Allianz fija
+la cuantía en 445.000 millones de dólares (unos 420.000 millones de euros), de los cuales la mitad recae en
+las 10 principales economías mundiales. Y HP y el Instituto Ponemon apuntan, por su parte, que el coste
+medio del cibercrimen asciende a 15 millones por organización, lo que supone un incremento del 20% anual y
+del 82% comparado con 2010.
+420.000 millones de euros es el coste anual estimado de la ciberdelincuencia para la economía global, según
+Allianz Estas dos últimas empresas apuntan también que el tiempo de media que conlleva solucionar un
+ciberataque es hoy de 46 días, un incremento de casi un 30% a lo largo de los últimos seis años, con un coste
+medio de 1,9 millones de dólares por cada ataque que se corrige, un 22% más respecto a 2014.
+En su web, el Icex apunta que las compañías españolas pueden estar perdiendo más de 13.000 millones de
+euros anuales por los ciberataques.
+Entre enero y septiembre, el Incibe ha interceptado 63 ciberinci-dentes contra instalaciones críticas en España
+Todos estos números no sorprenden si como revela un estudio de la firma FireEye centrado en Europa el 67%
+de las empresas del Viejo Continente declara haber tenido un ataque o fugas de información en el último año.
+Además, dice, el 69% de las fugas se descubrieron entre 1 y seis meses después de ocurrir.
+“Los ciberataques son cada vez más frecuentes y graves, y que las organizaciones entiendan el impacto
+financiero que pueden tener en su negocio les puede ayudar a determinar la inversión apropiada y los
+recursos que necesitan para prevenir o mitigar las consecuencia de un ataque”, dice Larry Ponemon,
+presidente del Instituto Ponemon. Su estudio junto a HP muestra que aquellas empresas que han hecho uso
+de sistemas de inteligencia de seguridad han logrado unos ahorros de 3,7 millones de dólares de media al
+año.
+“Las reglas de juego han cambiado. Ahora la dependencia de las empresas de la tecnología es enorme y con
+internet los ataques tienen un origen global, varias organizaciones pueden ser atacadas a la vez desde un
+mismo sitio, a una velocidad extraordinaria y con amenazas cambiantes”, asegura Alfonso Bilbao, presidente
+de la Comisión Técnica de la fundación ESYS. Esta organización, que actúa como lobby en materia de
+seguridad, reclama al Estado español más recursos para combatir la ciberdelincuencia y una legislación que
+permita perseguir a los cibercriminales.
+/ thinKsctock La aseguradora Allianz y otras empresas de seguros ven claro el tirón del negocio de los
+ciberseguros en los próximos años. Sobre todo por la mayor concienciación de las empresas hacia las
+consecuencias de los ciberataques (violaciones de datos, problemas de privacidad, daños a la reputación,
+interrupción de negocio…) y por un previsible endurecimiento de la legislación a nivel global sobre protección
+de datos con mayores sanciones (en algunos países como EE UU, Hong Kong, Singapur y Australia ya se ha
+dado).
+Un informe de Allianz asegura que, en la actualidad, menos del 10% de las empresas suscriben pólizas contra
+este tipo de riesgos. Sin embargo, prevé que las primas de seguros cibernéticos aumenten a nivel mundial de
+2.000 millones de dólares anuales hoy a más de 20.000 millones en la próxima década, lo que supondría una
+tasa de crecimiento anual acumulado superior al 20%.
+En EE UU, el crecimiento ya está en marcha. Según otro reciente estudio de Wells Fargo sobre 100 empresas
+medianas y grandes de ese país revela que el 85% tienen ya contratado un ciberseguro.
+Allianz asegura que el ámbito de los seguros cibernéticos debe evolucionar para poder proporcionar una
+cobertura más amplía y completa, centrándose en la interrupción de negocio empresarial y reduciendo la
+distancia entre la cobertura tradicional y las pólizas de seguros cibernéticos. “Mientras que la exclusión de los
+riesgos cibernéticos en las pólizas de seguros de riesgos generales probablemente será algo habitual, los
+seguros independientes contra los riesgos cibernéticos seguirán evolucionando para convertirse en la principal
+fuerte de cobertura completa”.
+La aseguradora también cree que las compañías de seguros se enfrentan a retos en torno a la fijación de
+precios, la redacción de pólizas, la elaboración de modelos y la acumulación de riesgos.
+“No tiene sentido que si un banco sufre una agresión y denuncia que los datos de sus clientes han sido
+vulnerados, a menudo sufra el riesgo de que la Agencia de Protección de Datos se le eche encima por no haber
+protegido adecuadamente los datos de sus clientes, algo absolutamente discutible”. En opinión de Bilbao, la
+información es clave para conocer y poder atajar el problema. Por ello cree que en todo el mundo debería ser
+obligatorio que las empresas denuncien los ciberataques que sufren. “No como ahora, que parece que aquí no
+ocurre nada”. También reclama más intercambio de información entre sector privado y organismos públicos,
+nacionales e internacionales. “Es la forma de ayudar a garantizar la seguridad de todos”.
+Seguridad física y lógica En unas jornadas organizadas la semana pasada por la fundación ESYS, su
+presidente, Javier Gómez-Navarro, destacó que aunque la seguridad física no ha perdido su papel, la
+ciberseguridad se ha convertido en primordial para el mundo de los negocios. “Los bancos no tienen miedo a los
+atracos, pero sí a las amenazas cibernéticas”, aseguró, remarcando la apuesta de la citada fundación y sus
+patronos (Telefónica, Indra, Gas Natural Fenosa, Securitas y Prosegur) por un modelo que integre la seguridad
+física y la lógica en un concepto global de seguridad integral. Algo que también compartió José María Pena,
+director general de Soluciones Integrales de Seguridad de Prosegur, y Fernando Sánchez Gómez, director del
+Centro Nacional para la Protección de Infraestructuras Críticas (CNPIC). En este sentido, este recordó que la
+ley española de infraestructuras críticas recoge la exigencia de un interlocutor único en cada empresa para
+temas de seguridad.
+Y es que el riesgo de ciberataques se plantea especialmente sensible en sectores como el de las
+infraestructuras críticas porque ofrecen servicios básicos para la sociedad. En España, el mapa de
+infraestructuras críticas está compuesto por 12 sectores que son esenciales y de entre los que ya han sido
+analizados (energía, nuclear, financiero, transportes y agua) se han nombrado 93 operadores críticos. Entre
+enero y septiembre, el Incibe ha interceptado 63 ciberincidentes contra este tipo de instalaciones, la mayoría a
+operadores de suministro eléctrico. El mismo número de incidentes que se registró en todo 2014.
+Por su parte, los incidentes de seguridad contra empresa y particulares, que también gestiona el Incibe, han
+pasado de los 18.000 detectados en 2014 a los 42.800 gestionados en lo que va de año.
+Ante los ataques cada vez más complejos de detectar y perseguir, Enrique Martín Gómez, jefe de proyectos de
+infraestructuras de ciberseguridad de GMV, aconseja “asumir cuanto antes que nuestros sistemas pueden ser
+comprometidos en cualquier momento” y utilizar una solución que integre tecnologías sandboxing (que ejecutan
+y observan el comportamiento de malware sospechoso en entornos reales virtualizados), con análisis forense y
+threat Intelligence (compartir la información de las amenazas entre todos los sistemas y entidades encargados
+de la ciberseguridad de cualquier infraestructura). Y todo apoyado con profesionales que sepan cómo responder
+a incidentes de seguridad de forma efectiva.
+Falta de profesionales El director general de Incibe, Miguel Rego, destacó hace unos días que en España el
+sector de la ciberseguridad emplea a 42.500 profesionales, pero ya se ha dado la voz de alarma ante la falta de
+profesionales especializados. La seguridad gestionada, la protección de datos en movilidad, las amenazas
+persistentes avanzadas, el internet de las cosas o la seguridad en las redes eléctricas inteligentes o los coches
+conectados son algunos de los segmentos que experimentarán más crecimiento. Y estas tendencias hacen que
+se haya estimado un déficit de más de un millón de profesionales de ciberseguridad a escala global.
+Precisamente este domingo se clausuró la feria Cybercamp 2015 en Madrid, que acogió la segunda edición del
+Foro Empleo y Talento en Ciberseguridad, que está disponible en versión online hasta el 8 de diciembre para
+acceder a ofertas de trabajo.
+Oportunidad para las empresas españolas Rego defiende que es importante “hacer ver a España como un país
+maduro, con experiencia y sobre todo con empresas que desarrollan tecnologías y servicios que mejoran la
+confianza”. El director general del Instituto Nacional de Ciberseguridad cree, como otros expertos en el sector,
+que los desafíos de la ciberseguridad abren también una oportunidad industrial en España, donde hay firmas
+con soluciones punteras como S2 Group, S21 Sec, GMV, Indra, Panda y Telefónica, entre otras. En la patronal
+tecnológica Ametic, la plataforma eSEC, con 222 entidades, busca impulsar la cooperación para aprovechar
+esta oportunidad tanto a nivel nacional como internacional.
